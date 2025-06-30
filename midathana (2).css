@@ -245,39 +245,6 @@ button:hover{
     cursor: pointer;
 }
 
-.certificates-grid {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap; /
-  margin-top: 20px;
-}
-
-.certificate-card {
-  width: 250px;
-  
-  border-radius: 12px;
-  padding: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  text-align: center;
-  transition: transform 0.3s ease;
-}
-
-.certificate-card:hover {
-  transform: scale(1.05);
-}
-
-.certificate-card img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-.certificate-card p {
-  margin-top: 10px;
-  font-weight: bold;
-  color: #333;
-}
 
 
 /* /////////...........projects section,,,,,,,,,,,,,,,, */
